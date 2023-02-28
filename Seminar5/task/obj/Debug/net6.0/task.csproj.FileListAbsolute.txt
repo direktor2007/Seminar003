@@ -1,0 +1,15 @@
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\task\bin\Debug\net6.0\task.exe
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\task\bin\Debug\net6.0\task.deps.json
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\task\bin\Debug\net6.0\task.runtimeconfig.json
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\task\bin\Debug\net6.0\task.dll
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\task\bin\Debug\net6.0\task.pdb
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\task\obj\Debug\net6.0\task.dll
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\task\obj\Debug\net6.0\refint\task.dll
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\task\obj\Debug\net6.0\task.pdb
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\task\obj\Debug\net6.0\ref\task.dll

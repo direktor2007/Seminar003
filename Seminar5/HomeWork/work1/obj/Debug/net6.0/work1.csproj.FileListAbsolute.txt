@@ -1,0 +1,15 @@
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\HomeWork\work1\bin\Debug\net6.0\work1.exe
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\HomeWork\work1\bin\Debug\net6.0\work1.deps.json
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\HomeWork\work1\bin\Debug\net6.0\work1.runtimeconfig.json
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\HomeWork\work1\bin\Debug\net6.0\work1.dll
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\HomeWork\work1\bin\Debug\net6.0\work1.pdb
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\HomeWork\work1\obj\Debug\net6.0\work1.csproj.AssemblyReference.cache
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\HomeWork\work1\obj\Debug\net6.0\work1.GeneratedMSBuildEditorConfig.editorconfig
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\HomeWork\work1\obj\Debug\net6.0\work1.AssemblyInfoInputs.cache
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\HomeWork\work1\obj\Debug\net6.0\work1.AssemblyInfo.cs
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\HomeWork\work1\obj\Debug\net6.0\work1.csproj.CoreCompileInputs.cache
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\HomeWork\work1\obj\Debug\net6.0\work1.dll
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\HomeWork\work1\obj\Debug\net6.0\refint\work1.dll
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\HomeWork\work1\obj\Debug\net6.0\work1.pdb
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\HomeWork\work1\obj\Debug\net6.0\work1.genruntimeconfig.cache
+G:\ГБ\Знакомство с C#\Seminar\Seminar5\HomeWork\work1\obj\Debug\net6.0\ref\work1.dll
