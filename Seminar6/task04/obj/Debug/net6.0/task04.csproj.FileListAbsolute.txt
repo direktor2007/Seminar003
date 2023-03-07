@@ -1,0 +1,15 @@
+G:\ГБ\Знакомство с C#\Seminar\Seminar6\task04\bin\Debug\net6.0\task04.exe
+G:\ГБ\Знакомство с C#\Seminar\Seminar6\task04\bin\Debug\net6.0\task04.deps.json
+G:\ГБ\Знакомство с C#\Seminar\Seminar6\task04\bin\Debug\net6.0\task04.runtimeconfig.json
+G:\ГБ\Знакомство с C#\Seminar\Seminar6\task04\bin\Debug\net6.0\task04.dll
+G:\ГБ\Знакомство с C#\Seminar\Seminar6\task04\bin\Debug\net6.0\task04.pdb
+G:\ГБ\Знакомство с C#\Seminar\Seminar6\task04\obj\Debug\net6.0\task04.csproj.AssemblyReference.cache
+G:\ГБ\Знакомство с C#\Seminar\Seminar6\task04\obj\Debug\net6.0\task04.GeneratedMSBuildEditorConfig.editorconfig
+G:\ГБ\Знакомство с C#\Seminar\Seminar6\task04\obj\Debug\net6.0\task04.AssemblyInfoInputs.cache
+G:\ГБ\Знакомство с C#\Seminar\Seminar6\task04\obj\Debug\net6.0\task04.AssemblyInfo.cs
+G:\ГБ\Знакомство с C#\Seminar\Seminar6\task04\obj\Debug\net6.0\task04.csproj.CoreCompileInputs.cache
+G:\ГБ\Знакомство с C#\Seminar\Seminar6\task04\obj\Debug\net6.0\task04.dll
+G:\ГБ\Знакомство с C#\Seminar\Seminar6\task04\obj\Debug\net6.0\refint\task04.dll
+G:\ГБ\Знакомство с C#\Seminar\Seminar6\task04\obj\Debug\net6.0\task04.pdb
+G:\ГБ\Знакомство с C#\Seminar\Seminar6\task04\obj\Debug\net6.0\task04.genruntimeconfig.cache
+G:\ГБ\Знакомство с C#\Seminar\Seminar6\task04\obj\Debug\net6.0\ref\task04.dll
